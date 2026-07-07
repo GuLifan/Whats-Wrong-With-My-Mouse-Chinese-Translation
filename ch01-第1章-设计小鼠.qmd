@@ -1,5 +1,5 @@
 ---
-title: "第1章 设计小鼠"
+title: "Chapter01 Designer Mice"
 book: "Whats Wrong With My Mouse Behavioral Phenotyping of Transgenic and Knockout Mice"
 translator: "Gemini (gemini-2.5-flash)"
 format:
@@ -19,6 +19,8 @@ format:
         \setCJKmonofont{FangSong}
 lang: zh
 ---
+
+# 设计小鼠
 
 这种疾病是遗传性的。家系谱分析表明这是一种常染色体显性基因。连锁分析揭示了一个强相关的染色体位点。基因定位确定了该基因。该基因的cDNA被测序。该基因的解剖学分布主要在大脑中。该疾病的症状是神经和精神方面的。目前没有有效的治疗方法。这种疾病最终是致命的。
 
@@ -82,133 +84,133 @@ lang: zh
 
 ## 背景文献
 
-Alcock J (1989). Animal Behavior. Sinauer Associates, Sunderland, MA.
+- Alcock J (1989). Animal Behavior. Sinauer Associates, Sunderland, MA.
 
-Buccafusco JJ (2000). Methods of Behavioral Analysis in Neuroscience. CRC Press, Boca Raton, FL.
+- Buccafusco JJ (2000). Methods of Behavioral Analysis in Neuroscience. CRC Press, Boca Raton, FL.
 
-Baker C (2004). Behavioral Genetics. American Association for the Advancement of Science and The Hastings Center, Washington, DC.
+- Baker C (2004). Behavioral Genetics. American Association for the Advancement of Science and The Hastings Center, Washington, DC.
 
-Becker JB, Breedlove SM, Crews D (1993). Behavioral Endocrinology. MIT Press, Cambridge.
+- Becker JB, Breedlove SM, Crews D (1993). Behavioral Endocrinology. MIT Press, Cambridge.
 
-Bloom FE, Young WG (1995). Brain Browser. Academic, San Diego.
+- Bloom FE, Young WG (1995). Brain Browser. Academic, San Diego.
 
-Bolivar V, Cook M, Flaherty L (2000b). List of transgenic and knockout mice: Behavioral profiles. Mammalian Genome 11: 260–274.
+- Bolivar V, Cook M, Flaherty L (2000b). List of transgenic and knockout mice: Behavioral profiles. Mammalian Genome 11: 260–274.
 
-Campbell IL, Gold LH (1996). Transgenic modeling of neuropsychiatry disorders. Molecular Psychiatry 1: 105–120.
+- Campbell IL, Gold LH (1996). Transgenic modeling of neuropsychiatry disorders. Molecular Psychiatry 1: 105–120.
 
-Crawley JN, 主编 (1997年及后续增补). 第8章 Behavioral Neuroscience. 载于 Current Protocols in Neuroscience, J Crawley, C Gerfen, M Rogawski, D Sibley, P Skolnick, W Wray, R McKay, 主编. Wiley, New York (印刷版和CD-ROM).
+- Crawley JN, 主编 (1997年及后续增补). 第8章 Behavioral Neuroscience. 载于 Current Protocols in Neuroscience, J Crawley, C Gerfen, M Rogawski, D Sibley, P Skolnick, W Wray, R McKay, 主编. Wiley, New York (印刷版和CD-ROM).
 
-Crusio WE, Gerlai RT, 主编 (1999). Handbook of Molecular-Genetic Techniques for Brain and Behavior Research. Elsevier, New York.
+- Crusio WE, Gerlai RT, 主编 (1999). Handbook of Molecular-Genetic Techniques for Brain and Behavior Research. Elsevier, New York.
 
-Darwin C (1839–1843). Zoology of the Voyage of the H.M.S. Beagle, 第3部分 Birds, Smith Elder and Company, London.
+- Darwin C (1839–1843). Zoology of the Voyage of the H.M.S. Beagle, 第3部分 Birds, Smith Elder and Company, London.
 
-Dowling JE (1998). Creating Mind: How the Brain Works. Norton, New York.
+- Dowling JE (1998). Creating Mind: How the Brain Works. Norton, New York.
 
-Foster G (1997). Chemical Neuroanatomy of the Prenatal Rat Brain. Oxford University Press, New York.
+- Foster G (1997). Chemical Neuroanatomy of the Prenatal Rat Brain. Oxford University Press, New York.
 
-Franklin BJ, Paxinos G (1996). The Mouse Brain in Stereotaxic Coordinates. Academic, San Diego.
+- Franklin BJ, Paxinos G (1996). The Mouse Brain in Stereotaxic Coordinates. Academic, San Diego.
 
-Goldowitz D, Wahlsten D, Wimer RE, 主编 (1992). Techniques for the Genetic Analysis of Brain and Behavior: Focus on the Mouse. Elsevier, Amsterdam.
+- Goldowitz D, Wahlsten D, Wimer RE, 主编 (1992). Techniques for the Genetic Analysis of Brain and Behavior: Focus on the Mouse. Elsevier, Amsterdam.
 
-Grandin T (1998). Genetics and the Behavior of Domestic Animals. Academic, San Diego.
+- Grandin T (1998). Genetics and the Behavior of Domestic Animals. Academic, San Diego.
 
-Griffin DR (1985). Animal consciousness. Neuroscience and Biobehavioral Reviews 9: 615–622.
+- Griffin DR (1985). Animal consciousness. Neuroscience and Biobehavioral Reviews 9: 615–622.
 
-Jacobowitz DM, Abbott LC (1998). Chemoarchitechtonic Atlas of the Developing Mouse Brain. CRC Press, Boca Raton, FL.
+- Jacobowitz DM, Abbott LC (1998). Chemoarchitechtonic Atlas of the Developing Mouse Brain. CRC Press, Boca Raton, FL.
 
-JAX Notes (2003). The importance of understanding substrains in the genomic age. The Jackson Laboratory 491: 1–3.
+- JAX Notes (2003). The importance of understanding substrains in the genomic age. The Jackson Laboratory 491: 1–3.
 
-Jones BC, Mormede P (1999). Neurobehavioral Genetics: Methods and Applications. CRC Press, Boca Raton, FL.
+- Jones BC, Mormede P (1999). Neurobehavioral Genetics: Methods and Applications. CRC Press, Boca Raton, FL.
 
-Kandel ER, Schwartz JH, Jessel TM (2000). Principles of Neural Science, 第4版. McGraw-Hill, New York.
+- Kandel ER, Schwartz JH, Jessel TM (2000). Principles of Neural Science, 第4版. McGraw-Hill, New York.
 
-Kaufman MH (1992). Atlas of Mouse Development. Academic, San Diego.
+- Kaufman MH (1992). Atlas of Mouse Development. Academic, San Diego.
 
-Lorenz K (1971). Studies in Animal and Human Behavior. Harvard University Press, Cambridge, MA.
+- Lorenz K (1971). Studies in Animal and Human Behavior. Harvard University Press, Cambridge, MA.
 
-Lorenz KZ (1974). Analogy as a source of knowledge. Science 185: 229–234.
+- Lorenz KZ (1974). Analogy as a source of knowledge. Science 185: 229–234.
 
-Lorenz KZ (1981). The Foundations of Ethology. Springer, New York.
+- Lorenz KZ (1981). The Foundations of Ethology. Springer, New York.
 
-Mak RW (1998). The Gene Knockout FactsBook. Academic, San Diego.
+- Mak RW (1998). The Gene Knockout FactsBook. Academic, San Diego.
 
-Marler P, Hamilton WJ, 主编 (1968). Mechanisms of Animal Behavior. Wiley, New York.
+- Marler P, Hamilton WJ, 主编 (1968). Mechanisms of Animal Behavior. Wiley, New York.
 
-Nelson RJ (2005) An Introduction to Behavioral Endocrinology. Sinauer, Sunderland, MA.
+- Nelson RJ (2005) An Introduction to Behavioral Endocrinology. Sinauer, Sunderland, MA.
 
-Nelson RJ, Young KA (1998). Behavior in mice with targeted disruption of single genes. Neuroscience and Biobehavioral Reviews 22: 453–462.
+- Nelson RJ, Young KA (1998). Behavior in mice with targeted disruption of single genes. Neuroscience and Biobehavioral Reviews 22: 453–462.
 
-Paxinos G (1985). The Rat Nervous System. Academic, New York.
+- Paxinos G (1985). The Rat Nervous System. Academic, New York.
 
-Paxinos G, Franklin KBJ (2000, 2003). The Mouse Brain in Stereotaxic Coordinates. Academic, San Diego.
+- Paxinos G, Franklin KBJ (2000, 2003). The Mouse Brain in Stereotaxic Coordinates. Academic, San Diego.
 
-Plomin R, DeFries JC, McClearn GE, Rutter M (1998). Behavioral Genetics. Freeman, New York.
+- Plomin R, DeFries JC, McClearn GE, Rutter M (1998). Behavioral Genetics. Freeman, New York.
 
-Schambra UB, Lauder JM, Silver J (1991). Atlas of the Prenatal Mouse Brain. Academic, New York.
+- Schambra UB, Lauder JM, Silver J (1991). Atlas of the Prenatal Mouse Brain. Academic, New York.
 
-Silver LM (1995). Mouse Genetics. Oxford University Press, New York.
+- Silver LM (1995). Mouse Genetics. Oxford University Press, New York.
 
-Squire LR, Bloom FE, McConnell SK, Roberts JL, Spitzer NC, Zigmond MJ (2002). Fundamental Neuroscience, 第2版. Academic Press, New York.
+- Squire LR, Bloom FE, McConnell SK, Roberts JL, Spitzer NC, Zigmond MJ (2002). Fundamental Neuroscience, 第2版. Academic Press, New York.
 
-Swanson, L (1998). Brain Maps: Structure of the Rat Brain. Elsevier Science, New York (印刷版和CD-ROM).
+- Swanson, L (1998). Brain Maps: Structure of the Rat Brain. Elsevier Science, New York (印刷版和CD-ROM).
 
-Tinbergen N (1974). Ethology and stress diseases. Science 185: 20–27.
+- Tinbergen N (1974). Ethology and stress diseases. Science 185: 20–27.
 
-Von Frisch K (1967)。蜜蜂的舞蹈语言与定向。Belknap, Cambridge, MA.
+- Von Frisch K (1967)。蜜蜂的舞蹈语言与定向。Belknap, Cambridge, MA.
 
-Wahlsten D, Crabbe JC (2006)。行为测试。载于《生物医学研究中的小鼠》，第三卷，即将出版。
+- Wahlsten D, Crabbe JC (2006)。行为测试。载于《生物医学研究中的小鼠》，第三卷，即将出版。
 
-Wahlsten D, Metten P, Phillips TJ, Boehm SL, Burkhart-Kasch S, Dorow J, Doerksen S, Downing C, Fogarty J, Rodd-Henricks R, Hen R, McKinnon CS, Merrill CM, Nolte C, Schalomon S, Schlumbohn JP, Sibert JR, Wenger CD, Dudek BC, Crabbe JC (2003)。不同实验室的不同数据：基因-环境交互作用研究的经验教训。Journal of Neurobiology 54: 283–311。
+- Wahlsten D, Metten P, Phillips TJ, Boehm SL, Burkhart-Kasch S, Dorow J, Doerksen S, Downing C, Fogarty J, Rodd-Henricks R, Hen R, McKinnon CS, Merrill CM, Nolte C, Schalomon S, Schlumbohn JP, Sibert JR, Wenger CD, Dudek BC, Crabbe JC (2003)。不同实验室的不同数据：基因-环境交互作用研究的经验教训。Journal of Neurobiology 54: 283–311。
 
-Whishaw IQ, Kolb B (2004)。实验室大鼠行为：一本带测试的手册。Oxford University Press, Oxford.
+- Whishaw IQ, Kolb B (2004)。实验室大鼠行为：一本带测试的手册。Oxford University Press, Oxford.
 
 ### 期刊专刊
 
-Behavior Genetics 26(3), 1996年5月 专刊：哺乳动物大脑与行为的分子遗传学方法。
+- Behavior Genetics 26(3), 1996年5月 专刊：哺乳动物大脑与行为的分子遗传学方法。
 
-Behavior Genetics 27(4), 1997年7月 专刊：肥胖遗传学。
+- Behavior Genetics 27(4), 1997年7月 专刊：肥胖遗传学。
 
-Behavioural Brain Research 95(1), 1998年9月 专刊：行为神经遗传学。
+- Behavioural Brain Research 95(1), 1998年9月 专刊：行为神经遗传学。
 
-Brain Research 835, 1999 专刊：基因敲除与突变体：遗传学解析大脑与行为。
+- Brain Research 835, 1999 专刊：基因敲除与突变体：遗传学解析大脑与行为。
 
-Hormones and Behavior 31(3), 1997年6月 专刊：单基因突变、基因敲除与行为神经内分泌学。
+- Hormones and Behavior 31(3), 1997年6月 专刊：单基因突变、基因敲除与行为神经内分泌学。
 
-Learning and Memory 5(4–5), 1998年9月/10月 专刊：神经生物学中的转基因/基因敲除方法。
+- Learning and Memory 5(4–5), 1998年9月/10月 专刊：神经生物学中的转基因/基因敲除方法。
 
-Nature Neuroscience 7(5), 2004年5月：神经科学规模化。
+- Nature Neuroscience 7(5), 2004年5月：神经科学规模化。
 
-Neuropeptides 36(2–3), 2002年4月/6月 专刊：神经肽及其受体基因突变的转基因和基因敲除。
+- Neuropeptides 36(2–3), 2002年4月/6月 专刊：神经肽及其受体基因突变的转基因和基因敲除。
 
-Psychopharmacology 132(2), 1997年7月11日 专刊：行为与分子遗传学。
+- Psychopharmacology 132(2), 1997年7月11日 专刊：行为与分子遗传学。
 
-Psychopharmacology 174(4), 2004年8月 专刊：分子遗传学与精神药理学。
+- Psychopharmacology 174(4), 2004年8月 专刊：分子遗传学与精神药理学。
 
 ### 神经科学方法系列
 
-Current Protocols in Neuroscience. Wiley.
+- Current Protocols in Neuroscience. Wiley.
 
-Journal of Neuroscience Methods. Elsevier.
+- Journal of Neuroscience Methods. Elsevier.
 
-Methods in Neuroscience. Academic Press.
+- Methods in Neuroscience. Academic Press.
 
-Neuroscience Protocols. Elsevier.
+- Neuroscience Protocols. Elsevier.
 
-Techniques in the Behavioral and Neural Sciences. Elsevier.
+- Techniques in the Behavioral and Neural Sciences. Elsevier.
 
 ### 小鼠行为课程
 
-冷泉港实验室小鼠行为分析课程。2003年夏季课程由 Stephen Anagnostaras 和 Mark Mayford 组织，举办地点：美国纽约冷泉港实验室 (Cold Spring Harbor Laboratory)。http://meetings.cshl.org/2003/2003c-maze.htm
+- 冷泉港实验室小鼠行为分析课程。2003年夏季课程由 Stephen Anagnostaras 和 Mark Mayford 组织，举办地点：美国纽约冷泉港实验室 (Cold Spring Harbor Laboratory)。http://meetings.cshl.org/2003/2003c-maze.htm
 
-EMBO/FENS 小鼠转基因与行为实践课程。2003年7月课程由 David P. Wolfer, Hans-Peter Lipp 和 Richard G. M. Morris 组织，举办地点：瑞士苏黎世大学 (University of Zurich)。http://www.dpwolfer.ch/mouse-course
+- EMBO/FENS 小鼠转基因与行为实践课程。2003年7月课程由 David P. Wolfer, Hans-Peter Lipp 和 Richard G. M. Morris 组织，举办地点：瑞士苏黎世大学 (University of Zurich)。http://www.dpwolfer.ch/mouse-course
 
-国际行为神经遗传学暑期学校。2004年8月课程由 Robert W. Williams, Douglas Matthews, Byron Jones 和 Dan Goldowitz 组织，举办地点：美国田纳西州孟菲斯田纳西大学 (University of Tennessee)。http://tnmouse.org/documents/BehNeurog-SummerSchool04.pdf ；以及第二届年度实验神经遗传学小鼠研讨会，
+- 国际行为神经遗传学暑期学校。2004年8月课程由 Robert W. Williams, Douglas Matthews, Byron Jones 和 Dan Goldowitz 组织，举办地点：美国田纳西州孟菲斯田纳西大学 (University of Tennessee)。http://tnmouse.org/documents/BehNeurog-SummerSchool04.pdf ；以及第二届年度实验神经遗传学小鼠研讨会，
 
-由 Dan Goldowitz 和 Tennessee Mouse Genome Consortium 成员组织，2005年5月，美国田纳西州孟菲斯。JAX Neurogenetics Conference，由 Wayne Frankel 组织。2004年6月课程在美国缅因州巴港的 The Jackson Laboratory 举办。http://www.jax.org/courses/events/ coursedetails.do? id=28 
+- 由 Dan Goldowitz 和 Tennessee Mouse Genome Consortium 成员组织，2005年5月，美国田纳西州孟菲斯。JAX Neurogenetics Conference，由 Wayne Frankel 组织。2004年6月课程在美国缅因州巴港的 The Jackson Laboratory 举办。http://www.jax.org/courses/events/ coursedetails.do? id=28 
 
-The Laboratory Mouse in Vision Research (视觉研究中的实验小鼠)，由 John Macauley、Maureen McCall 和 Patsy Nishina 组织，2004年10月课程在美国缅因州巴港的 The Jackson Laboratory 举办。http://www.jax.org/courses/events/coursedetails.do?id=42 
+- The Laboratory Mouse in Vision Research (视觉研究中的实验小鼠)，由 John Macauley、Maureen McCall 和 Patsy Nishina 组织，2004年10月课程在美国缅因州巴港的 The Jackson Laboratory 举办。http://www.jax.org/courses/events/coursedetails.do?id=42 
 
-Walk This Way: Gait Dynamics in Rodent Models of Human Diseases (人类疾病啮齿动物模型中的步态动力学)。2005年8月研讨会由 Mouse Specifics, Inc. 组织，在马萨诸塞州剑桥的 Cambridge Life Sciences Center 举办。
+- Walk This Way: Gait Dynamics in Rodent Models of Human Diseases (人类疾病啮齿动物模型中的步态动力学)。2005年8月研讨会由 Mouse Specifics, Inc. 组织，在马萨诸塞州剑桥的 Cambridge Life Sciences Center 举办。
 
 ---
 
